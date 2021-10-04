@@ -1,0 +1,8 @@
+http://localhost/code/
+http://localhost/code/index.php
+http://localhost/code/index.php/Welcome
+http://localhost/code/index.php/Welcome/index2
+http://localhost/code/index.php/Docente
+
+no funciona: 
+http://localhost/code/Welcome
